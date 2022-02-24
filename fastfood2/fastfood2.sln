@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fastfood2", "fastfood2\fastfood2.csproj", "{AD05D1B3-8112-4184-9C68-BB5BC7116B2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD05D1B3-8112-4184-9C68-BB5BC7116B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD05D1B3-8112-4184-9C68-BB5BC7116B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD05D1B3-8112-4184-9C68-BB5BC7116B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD05D1B3-8112-4184-9C68-BB5BC7116B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
